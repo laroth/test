@@ -2,4 +2,3 @@ this was a git project
 to be continue...
 Git has a mutable index called stage
 a new branch for master and dev
-
